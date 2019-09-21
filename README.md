@@ -2,6 +2,6 @@
  Artifical neural project how neuron dendrites connect with other dendrites. 
  
  # Execute
-    $ go run main.gp
+    $ go run main.go
  ## Options 
       1. Dendrites connection
