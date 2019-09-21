@@ -1,2 +1,2 @@
 # artifical-neural
-how neurons exchange their information
+ Artifical neural project how neuron dendrites connect with other dendrites. 
